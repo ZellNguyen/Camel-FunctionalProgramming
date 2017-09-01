@@ -1,4 +1,4 @@
-# Camel-FunctionalProgramming
+# OCaml-FunctionalProgramming
 ## Description
 This project was developed using OCaml language (functional programming language) to build an intepreter. 
 
