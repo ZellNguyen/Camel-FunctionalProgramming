@@ -1,6 +1,8 @@
 # Camel-FunctionalProgramming
 ## Description
-This project was developed using Camel language (functional programming language) to build an intepreter. This interpreter is meant to first parse the input into a program of types as defined in "asgparser.mli". The idea is to keep typedefs and valdefs in lists of variable pairs so needed values can be found through using List.assoc.
+This project was developed using Camel language (functional programming language) to build an intepreter. 
+
+This interpreter is meant to first parse the input into a program of types as defined in "asgparser.mli". The idea is to keep typedefs and valdefs in lists of variable pairs so needed values can be found through using List.assoc.
 
 However, we have only arrived at a partial version. Current issues are as follows:
 
